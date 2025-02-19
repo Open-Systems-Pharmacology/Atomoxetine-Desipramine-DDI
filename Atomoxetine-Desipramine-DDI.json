@@ -1,0 +1,2028 @@
+{
+  "Version": 79,
+  "ExpressionProfiles": [
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP3A4",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "CYP3A4|Reference concentration",
+          "Value": 4.32,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0041682898325
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00078691079081
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0053603428126
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00042695753798
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP3A4"
+      }
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP2D6",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "CYP2D6|Reference concentration",
+          "Value": 0.4,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP2D6|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP2D6|t1/2 (liver)",
+          "Value": 51.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.00768702814
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.768702814
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0208304736
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP2D6|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP2D6|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0223404255
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP2D6|Relative expression",
+          "Value": 0.0909402883
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP2D6"
+      }
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP2C19",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "CYP2C19|Reference concentration",
+          "Value": 0.76,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP2C19|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP2C19|t1/2 (liver)",
+          "Value": 26.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.0001
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.0004
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.0002
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP2C19|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP2C19|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.0004
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.0145
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.0169
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.014
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.0132
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.014
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.0132
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP2C19"
+      }
+    }
+  ],
+  "Individuals": [
+    {
+      "Name": "Sauer (2004), n=22 (EM)",
+      "Seed": 81049156,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "European_ICRP_2002",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 45.0,
+          "Unit": "year(s)"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0
+        }
+      ],
+      "ExpressionProfiles": [
+        "CYP3A4|Human|Healthy",
+        "CYP2D6|Human|Healthy",
+        "CYP2C19|Human|Healthy"
+      ]
+    }
+  ],
+  "Compounds": [
+    {
+      "Name": "Desipramine",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Glycoprotein",
+      "Lipophilicity": [
+        {
+          "Name": "Optimized",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.5204587578,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Predicted",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.896,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "Database",
+                "Method": "Other",
+                "Description": "chemicalize.com"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Predicted",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.135,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Predicted, Watanabe et al. 2018"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Predicted",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 214.29,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "Database",
+                "Method": "Other",
+                "Description": "chemicalize.com"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.5,
+              "ValueOrigin": {
+                "Source": "Database",
+                "Method": "Other",
+                "Description": "chemicalize.com"
+              }
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Optimized",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 1.14E-05,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 10.02,
+          "ValueOrigin": {
+            "Source": "Database",
+            "Method": "Other",
+            "Description": "chemicalize.com"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 2.84,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 32' on 2019-07-05 09:16"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.14,
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Method": "Unknown"
+              }
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 3.52,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 0.5395490378,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Ball et al. 1997 (2-Hydroxydesipramine)",
+          "Molecule": "CYP2D6",
+          "Metabolite": "2-Hydroxydesipramine",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 68.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 0.732,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Ball et al. 1997, corrected for fu,inc 12% (Austin et al. 2002)"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 5.03,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=0 (2-Hydroxydesipramine)",
+          "Molecule": "CYP2D6",
+          "Metabolite": "2-Hydroxydesipramine",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 0.73,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Ball et al. 1997, corrected for fu,inc 12% (Austin et al. 2002)"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=2 (2-Hydroxydesipramine)",
+          "Molecule": "CYP2D6",
+          "Metabolite": "2-Hydroxydesipramine",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 0.732,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Ball et al. 1997, corrected for fu,inc 12% (Austin et al. 2002)"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 9.86,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=2.5 (2-Hydroxydesipramine)",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 0.732,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Ball et al. 1997, corrected for fu,inc 12% (Austin et al. 2002)"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 28.88,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 266.388,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Database",
+            "Method": "Other",
+            "Description": "chemicalize.com"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2-Hydroxydesipramine",
+      "IsSmallMolecule": true,
+      "Lipophilicity": [
+        {
+          "Name": "Optimized",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 2.33,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Predicted",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.173,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "Database",
+                "Method": "Other",
+                "Description": "chemicalize.com"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Predicted",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.12,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Predicted, Watanabe et al. 2018"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Predicted",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 282.39,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "Database",
+                "Method": "Other",
+                "Description": "chemicalize.com"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.5,
+              "ValueOrigin": {
+                "Source": "Database",
+                "Method": "Other",
+                "Description": "chemicalize.com"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 9.9,
+          "ValueOrigin": {
+            "Source": "Database",
+            "Method": "Other",
+            "Description": "chemicalize.com"
+          }
+        },
+        {
+          "Type": "Acid",
+          "Pka": 10.63,
+          "ValueOrigin": {
+            "Source": "Database",
+            "Method": "Other",
+            "Description": "chemicalize.com"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 4.51,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Other",
+                "Description": "Assumption"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.12
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 2.53,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Method": "Unknown"
+              }
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 9.93,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 282.38,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Database",
+            "Method": "Other",
+            "Description": "chemicalize.com"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Atomoxetine",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "LogP",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.4885087539,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Lipophilicity, fu, kcat CYP2C19, intestinal perm no sp cl.' on 2021-11-16 08:40"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Mohan 2015",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.65,
+              "Unit": "Log Units"
+            }
+          ]
+        },
+        {
+          "Name": "ChemAxon",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.81,
+              "Unit": "Log Units"
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 1.3,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVivo",
+                "Description": "Yu 2016"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Calculated",
+          "IsDefault": false,
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 3.9,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Description": "Watanabe 2018"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 10.29,
+              "Unit": "mg/ml",
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Description": "chemicalize - atomoxetine hydrochloride"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.4,
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Description": "chemicalize - atomoxetine hydrochloride"
+              }
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Optimized",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 5.23E-05,
+              "Unit": "cm/min"
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 9.8,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Ring 2001 (4-hydroxylation)",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 115.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.3,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 37.4392066898,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Lipophilicity, fu, kcat CYP2C19, intestinal perm no sp cl.' on 2021-11-16 08:40"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=0",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.3,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "Assumed",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=2",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.3,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 102.25,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit",
+                "Description": "AS-Model"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=0.5",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.3,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 16.87,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit",
+                "Description": "AS-Model"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=1.25",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.3,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 53.68,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit",
+                "Description": "AS-Model"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Ring 2002",
+          "Molecule": "CYP2C19",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 97.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 19.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 83.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 165.2291488831,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Lipophilicity, fu, kcat CYP2C19, intestinal perm no sp cl.' on 2021-11-16 08:40"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Sauer 2004",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 3.6,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Unknown",
+                "Description": "Sauer 2004"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Sauer 2004",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 34.0,
+              "Unit": "µmol/l"
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Berezhkovskiy",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 255.35,
+          "Unit": "g/mol"
+        }
+      ]
+    }
+  ],
+  "Formulations": [
+    {
+      "Name": "dissolved",
+      "FormulationType": "Formulation_Dissolved"
+    },
+    {
+      "Name": "Strattera Lilly",
+      "FormulationType": "Formulation_Tablet_Lint80",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (80% dissolved)",
+          "Value": 5.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Lag time",
+          "Value": 0.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 1.0
+        }
+      ]
+    }
+  ],
+  "Protocols": [
+    {
+      "Name": "desipramine hydrochloride 50 mg peroral s.d.",
+      "ApplicationType": "Oral",
+      "DosingInterval": "Single",
+      "Parameters": [
+        {
+          "Name": "Start time",
+          "Value": 0.0,
+          "Unit": "h"
+        },
+        {
+          "Name": "InputDose",
+          "Value": 43.98,
+          "Unit": "mg"
+        },
+        {
+          "Name": "Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ]
+    },
+    {
+      "Name": "Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Strattera Lilly",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 54.54,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 26.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 12.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Sauer (2004) - desipramine hydrochloride 50 mg peroral s.d. @ 72h no water",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 43.98,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 0.0,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 72.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    }
+  ],
+  "Simulations": [
+    {
+      "Name": "Sauer (2004) - desipramine hydrochloride, po, 50 mg, n=22 (EM)",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Sauer (2004) - desipramine hydrochloride, po, 50 mg, n=22 (EM), desipramine"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 150.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|desipramine hydrochloride 50 mg peroral s.d.|dissolved|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Sauer (2004), n=22 (EM)",
+      "Compounds": [
+        {
+          "Name": "Desipramine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-Ball et al. 1997 (2-Hydroxydesipramine)",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "desipramine hydrochloride 50 mg peroral s.d.",
+            "Formulations": [
+              {
+                "Name": "dissolved",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Sauer (2004) - desipramine hydrochloride, po, 50 mg, n=22 (EM)-Desipramine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Sauer (2004) - desipramine hydrochloride, po, 50 mg, n=22 (EM)|Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Sauer 2004 - Atomoxetine-Despiramine DDI..Desipramine.Plasma.Peripheral Venous Blood.Human.Desipramine alone-Desipramine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Sauer (2004) - desipramine hydrochloride, po, 50 mg, n=22 (EM), desipramine|Time",
+              "Y": "Sauer (2004) - desipramine hydrochloride, po, 50 mg, n=22 (EM), desipramine|ObservedData|Peripheral Venous Blood|Plasma|Desipramine|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Atomoxetine-Desipramine-DDI\nSauer (2004) - desipramine hydrochloride, po, 50 mg, n=22 (EM)\n2024-01-19 11:00"
+        }
+      ]
+    },
+    {
+      "Name": "Sauer (2004) - DDI - atomoxetine-desipramine, po, 40-60/50 mg, n=22 (EM) no water",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Sauer (2004) - DDI - atomoxetine-desipramine, po, 40-60/50 mg, n=22 (EM), desipramine"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 300.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_18|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_19|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_20|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_21|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_22|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_23|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_24|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_25|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_26|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days|Strattera Lilly|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Sauer (2004) - desipramine hydrochloride 50 mg peroral s.d. @ 72h no water|dissolved|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 0.0,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Sauer (2004), n=22 (EM)",
+      "Compounds": [
+        {
+          "Name": "Desipramine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-Ball et al. 1997 (2-Hydroxydesipramine)",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Sauer (2004) - desipramine hydrochloride 50 mg peroral s.d. @ 72h no water",
+            "Formulations": [
+              {
+                "Name": "dissolved",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2D6-Ring 2001 (4-hydroxylation)",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Sauer (2004) - atomoxetine hydrochloride 40-60 mg peroral b.i.d., 13 days",
+            "Formulations": [
+              {
+                "Name": "Strattera Lilly",
+                "Key": "Strattera Lilly"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Sauer (2004) - DDI - atomoxetine-desipramine, po, 40-60/50 mg, n=22 (EM) no water-Desipramine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Sauer (2004) - DDI - atomoxetine-desipramine, po, 40-60/50 mg, n=22 (EM) no water|Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Sauer (2004) - DDI - atomoxetine-desipramine, po, 40-60/50 mg, n=22 (EM), desipramine-Desipramine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Sauer (2004) - DDI - atomoxetine-desipramine, po, 40-60/50 mg, n=22 (EM), desipramine|Time",
+              "Y": "Sauer (2004) - DDI - atomoxetine-desipramine, po, 40-60/50 mg, n=22 (EM), desipramine|ObservedData|Peripheral Venous Blood|Plasma|Desipramine|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Atomoxetine-Desipramine-DDI\nSauer (2004) - DDI - atomoxetine-desipramine, po, 40-60/50 mg, n=22 (EM) no water\n2024-04-24 15:55"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Sauer 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Atomoxetine"
+        },
+        {
+          "Name": "CYP2D6-Sauer 2004",
+          "MoleculeName": "CYP2D6",
+          "CompoundName": "Atomoxetine"
+        }
+      ]
+    }
+  ],
+  "ObservedData": [
+    {
+      "Name": "Sauer (2004) - desipramine hydrochloride, po, 50 mg, n=22 (EM), desipramine",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Desipramine"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "QuantityInfo": {
+            "Path": "Sauer (2004) - desipramine hydrochloride, po, 50 mg, n=22 (EM), desipramine|ObservedData|Peripheral Venous Blood|Plasma|Desipramine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 266.388
+          },
+          "Values": [
+            1.5343,
+            8.0809,
+            12.035,
+            14.1197,
+            16.53,
+            15.7730007,
+            14.1498,
+            9.3603,
+            4.8778,
+            3.5062
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Sauer (2004) - desipramine hydrochloride, po, 50 mg, n=22 (EM), desipramine|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          2.0,
+          3.0,
+          4.0,
+          6.0,
+          8.0,
+          12.0,
+          24.0,
+          48.0,
+          72.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Sauer (2004) - DDI - atomoxetine-desipramine, po, 40-60/50 mg, n=22 (EM), desipramine",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Desipramine"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "QuantityInfo": {
+            "Path": "Sauer (2004) - DDI - atomoxetine-desipramine, po, 40-60/50 mg, n=22 (EM), desipramine|ObservedData|Peripheral Venous Blood|Plasma|Desipramine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 266.388
+          },
+          "Values": [
+            2.3644,
+            8.8539,
+            14.0231,
+            16.2179985,
+            16.918,
+            17.5290012,
+            14.4808,
+            8.989699,
+            5.1545,
+            3.75740027,
+            2.5948
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Sauer (2004) - DDI - atomoxetine-desipramine, po, 40-60/50 mg, n=22 (EM), desipramine|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          73.0,
+          74.0,
+          75.0,
+          76.0,
+          78.0,
+          80.0,
+          84.0,
+          96.0,
+          120.0,
+          144.0,
+          168.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    }
+  ],
+  "ObservedDataClassifications": [
+    {
+      "Name": "Desipramine",
+      "Classifiables": [
+        "Sauer (2004) - desipramine hydrochloride, po, 50 mg, n=22 (EM), desipramine",
+        "Sauer (2004) - DDI - atomoxetine-desipramine, po, 40-60/50 mg, n=22 (EM), desipramine"
+      ]
+    }
+  ],
+  "SimulationClassifications": [
+    {
+      "Name": "desipramine ddi",
+      "Classifiables": [
+        "Sauer (2004) - desipramine hydrochloride, po, 50 mg, n=22 (EM)",
+        "Sauer (2004) - DDI - atomoxetine-desipramine, po, 40-60/50 mg, n=22 (EM) no water"
+      ]
+    }
+  ]
+}
